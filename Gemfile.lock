@@ -1,0 +1,14 @@
+PATH
+  remote: .
+  specs:
+    ruvism (0.1.1)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  ruvism!
