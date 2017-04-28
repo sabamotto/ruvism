@@ -1,5 +1,5 @@
 ECHO ________________________________
 ECHO.
-ECHO   * Ruvism Demo by 10FI018 *
+ECHO   * Ruvism Demonstration *
 ECHO ________________________________
 ECHO ON
